@@ -10,8 +10,7 @@ define(['pipAPI', 'https://alerv97.github.io/iat_puebla/iat/template_main.js'], 
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    {image : 'black1.jpg'}, 
-    			{image : 'JJCorona.png'}, 
+    		    {image : 'JJCorona.png'},  
     			{image : 'silvanaestrada.png'}, 
     			{image : 'yalitza-aparicio.png'}
 			], 
@@ -26,8 +25,7 @@ define(['pipAPI', 'https://alerv97.github.io/iat_puebla/iat/template_main.js'], 
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    {image : 'yf1.jpg'}, 
-    			{image : 'brady.png'}, 
+    		    {image : 'brady.png'},  
     			{image : 'emma.png'}, 
     			{image : 'taylor.png'}			], 
 			//Stimulus css
