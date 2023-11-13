@@ -27,7 +27,8 @@ define(['pipAPI', 'https://alerv97.github.io/iat_puebla/iat/template_main.js'], 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
     		    {image : 'brady.png'},  
     			{image : 'emma.png'}, 
-    			{image : 'taylor.png'}			], 
+    			{image : 'taylor.png'}			
+			], 
 			//Stimulus css
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
 		},	
